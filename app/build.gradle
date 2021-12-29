@@ -42,4 +42,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation 'com.github.thellmund.Android-Week-View:core:5.2.4'
+    implementation 'com.github.thellmund.Android-Week-View:jsr310:5.2.4'
 }
